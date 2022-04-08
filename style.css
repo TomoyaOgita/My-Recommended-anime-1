@@ -1,0 +1,42 @@
+body {
+  background-color:black;
+  text-align:center;
+}
+h1 {
+  color: white;
+  font-family: serif;
+}
+h3{
+  color:white;
+  font-size: 15px;
+  font-family: serif;
+  text-align: left;
+}
+p{
+  color:white;
+  font-size: 12px;
+  font-family: serif;
+  text-align: left;
+}
+h2{
+  color:white;
+  font-size: 20px;
+  font-family: serif;
+  text-align: left;
+}
+h4{
+  color:white;
+  font-size: 10px;
+  font-family: serif;
+  text-align: right;
+}
+img{
+  float: right;
+  width: 150px;
+  height: inherit;
+  margin: 10px;
+  border-color: gray;
+  border-width: 4px;
+  border-style:
+  border-radius: 10px;
+}
